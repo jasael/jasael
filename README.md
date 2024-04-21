@@ -1,8 +1,9 @@
-# Hi there 👋, I’m Jasael Palma Frontend Developer
+# Hi there 👋, I’m Jasael Palma
+## Full Stack Javascript Developer
 
-- 🔭 I'm currently working in mobile development with ionic and angular.
-- 🌱 I'm currently learning nodejs
-- 👯 I'm looking to collaborate in react projects
+- 🔭 I'm currently working in fullstack development with laravel, rails and react.
+- 🌱 I'm in constant learning process
+- 👯 I'm looking to collaborate in react and nextjs projects or nodejs and frameworks projects
 - 📫 How to reach me: programadorjp2001@gmail.com
 - ⚡ Fun facts:
   - 📚 I am self-taught
